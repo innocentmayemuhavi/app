@@ -120,11 +120,13 @@ class ScreenTwo extends StatelessWidget {
                     fontSize: 19.0,
                     fontWeight: FontWeight.bold,
                   ),
+                  
                 ),
                 SizedBox(
                   height: 12.0,
                   width: 80,
                 ),
+                
                 Divider(),
                 Text(
                   'Maye Innocent Muhavi',
